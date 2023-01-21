@@ -1,0 +1,27 @@
+body {
+    margin: 0px;
+    
+}
+
+.menu_lat {
+    margin: 20px;
+    background-color: green;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-content: flex-start;
+    width: 180px;
+}
+
+menu. p {
+       color: white;
+
+}
+
+.menu_lat :hover{
+    color: rgb(226, 7, 7);
+}
+.menu_lat :visited{
+    background-color: rgb(4, 70, 4);
+}
