@@ -15,10 +15,9 @@ body {
     color: white;
 }
 
-.menu_lat a:hover{
+.menu_lat a:hover {
     color: rgb(226, 7, 7);
 }
-.menu_lat a:visited{
-    
+.menu_lat a:visited {
     background-color: rgb(3, 59, 12);
 }
